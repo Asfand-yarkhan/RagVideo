@@ -24,6 +24,8 @@ Transcripts are cached in `backend/data/` so each video is fetched from YouTube 
 
 ## Setup
 
+After the one-time setup below, on Windows just double-click **`start.bat`**: it starts both servers and opens http://localhost:5173.
+
 You need Python 3.12 (via [uv](https://docs.astral.sh/uv/)) and Node.js 20+.
 
 ### 1. Backend
