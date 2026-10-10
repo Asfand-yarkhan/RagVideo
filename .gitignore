@@ -1,5 +1,22 @@
+# Secrets
 .env
+*.env
+!.env.example
+*cookies*.txt
+
+# Python
 .venv/
 __pycache__/
 *.pyc
-www.youtube.com_cookies.txt
+
+# App data (cached transcripts)
+backend/data/
+
+# Frontend
+node_modules/
+dist/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

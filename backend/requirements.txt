@@ -1,0 +1,10 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-dotenv>=1.0
+httpx>=0.27
+groq>=0.30
+youtube-transcript-api>=1.2
+yt-dlp[default]>=2025.10.22
+imageio-ffmpeg>=0.5
+sentence-transformers>=3.0
+numpy>=1.26
